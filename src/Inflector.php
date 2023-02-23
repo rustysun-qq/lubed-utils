@@ -1,10 +1,10 @@
 <?php
-namespace Lube\Utils;
+namespace Lubed\Utils;
 
 /**
  * 英语名词单、复数转换
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 class Inflector
 {

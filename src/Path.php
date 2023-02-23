@@ -1,9 +1,9 @@
 <?php
-namespace Lube\Utils;
+namespace Lubed\Utils;
 /**
  * Class Path
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 final class Path {
     private const DEFAULT_RESOURCE_PATH='resource/';

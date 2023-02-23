@@ -1,5 +1,5 @@
 <?php
-namespace Lube\Utils\Terminal;
+namespace Lubed\Utils\Terminal;
 
 /**
  * style for terminal

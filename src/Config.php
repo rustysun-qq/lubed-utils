@@ -1,5 +1,5 @@
 <?php
-namespace Lube\Utils;
+namespace Lubed\Utils;
 
 use InvalidArgumentException;
 use RuntimeException;
@@ -7,7 +7,7 @@ use RuntimeException;
 /**
  * Class Config 配置
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 final class Config {
     /**

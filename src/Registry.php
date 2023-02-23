@@ -1,10 +1,10 @@
 <?php
-namespace Lube\Utils;
+namespace Lubed\Utils;
 
 /**
  * Class Registry
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 final class Registry {
     private static $instance;

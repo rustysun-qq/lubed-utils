@@ -1,10 +1,10 @@
 <?php
-namespace Lube\Utils;
+namespace Lubed\Utils;
 
 /**
  * Class
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 class Constant
 {

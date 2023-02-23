@@ -2,11 +2,11 @@
 /**
  * OutputBuffer
  */
-namespace Lube\Utils;
+namespace Lubed\Utils;
 /**
  * Class OutputBuffer
  *
- * @package Lube\Utils
+ * @package Lubed\Utils
  */
 final class OutputBuffer {
     private static $level;
